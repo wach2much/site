@@ -81,3 +81,10 @@ body li{
     font-weight: bold;
     
 }
+body a{
+    font-family: "consolas", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoratin: none;
+    color: #FFFFFF
+}
